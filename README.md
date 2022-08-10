@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro ! 
 
-- 🔭 Atualmente faço estagio na area de banco de dados.
+- 🔭 Atualmente procuro uma qualificação no mercado!.
 - 🌱 Estudando ciência da computação.
 - 📫 Contate-me pelo email: pedroavergilio@gmail.com
 

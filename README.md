@@ -1,6 +1,4 @@
 ## Olá, eu sou o Pedro ! 
-
-- 🔭 Atualmente trabalhando como Full Stack Developer!
 - 🌱 Estudando ciência da computação.
 - 📫 Contate-me pelo email: pedroavergilio@gmail.com
 
